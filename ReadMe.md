@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working as Front-End Developer
 
+![](https://komarev.com/ghpvc/?username=chayannath)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chayan-nath) 
@@ -16,6 +18,6 @@ I'm currently working as Front-End Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=chayannath)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
