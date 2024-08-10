@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Front-End Developer
+Software Developer @ Dassault Systemes
 
 ![](https://komarev.com/ghpvc/?username=chayannath)
 
